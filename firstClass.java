@@ -1,4 +1,4 @@
-
+// SOMEBASIC CASES AND PATTERNS
 class New{
 	//Switch does not support double
 	//String is also not support in switch below 1.8
